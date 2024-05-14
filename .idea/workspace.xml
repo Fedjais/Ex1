@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3015e22-3be2-42d8-9652-82134c92c868" name="Changes" comment="Patch #1" />
+    <list default="true" id="d3015e22-3be2-42d8-9652-82134c92c868" name="Changes" comment="Patch #3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715711312093</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Patch #2">
+      <option name="closed" value="true" />
+      <created>1715711582123</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715711582123</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Patch #3">
+      <option name="closed" value="true" />
+      <created>1715711646578</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715711646578</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +174,8 @@
     <MESSAGE value="Доповнення Логіки Гри" />
     <MESSAGE value="Повна гра" />
     <MESSAGE value="Patch #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Patch #1" />
+    <MESSAGE value="Patch #2" />
+    <MESSAGE value="Patch #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Patch #3" />
   </component>
 </project>
