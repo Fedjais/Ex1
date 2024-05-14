@@ -19,18 +19,24 @@ if start == '+':
 
             if rand == 'к' and user == "н":
                 rand_ball += 1
+                print("Ви програли :(")
             if rand == 'н' and user == "п":
                 rand_ball += 1
+                print("Ви програли :(")
             if rand == 'п' and user == "к":
                 rand_ball += 1
+                print("Ви програли :(")
             if rand == 'к' and user == "п":
                 user_ball += 1
+                print("Ви перемогли :)")
             if rand == 'н' and user == "к":
                 user_ball += 1
+                print("Ви перемогли :)")
             if rand == 'п' and user == "н":
                 user_ball += 1
+                print("Ви перемогли :)")
             if rand == user:
-                pass
+                print("Нічия")
         elif user == "?":
             print(f'Ваші бали - {user_ball}, Бали вашого суперника - {rand_ball}.')
         elif user == "-":

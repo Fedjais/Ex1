@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3015e22-3be2-42d8-9652-82134c92c868" name="Changes" comment="Ініціалізація user_ball та rand_ball">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="d3015e22-3be2-42d8-9652-82134c92c868" name="Changes" comment="Patch #1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +31,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -87,7 +85,55 @@
       <option name="project" value="LOCAL" />
       <updated>1715710240683</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ініціалізація КНП">
+      <option name="closed" value="true" />
+      <created>1715710422076</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715710422076</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ініціалізація random">
+      <option name="closed" value="true" />
+      <created>1715710562431</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715710562431</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ініціалізація Основної Логіки Гри">
+      <option name="closed" value="true" />
+      <created>1715710922653</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715710922653</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Доповнення Логіки Гри">
+      <option name="closed" value="true" />
+      <created>1715711153875</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715711153875</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Повна гра">
+      <option name="closed" value="true" />
+      <created>1715711252247</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715711252248</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Patch #1">
+      <option name="closed" value="true" />
+      <created>1715711312093</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715711312093</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +152,12 @@
     <MESSAGE value="Змінна start" />
     <MESSAGE value="Завантаження гри" />
     <MESSAGE value="Ініціалізація user_ball та rand_ball" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ініціалізація user_ball та rand_ball" />
+    <MESSAGE value="Ініціалізація КНП" />
+    <MESSAGE value="Ініціалізація random" />
+    <MESSAGE value="Ініціалізація Основної Логіки Гри" />
+    <MESSAGE value="Доповнення Логіки Гри" />
+    <MESSAGE value="Повна гра" />
+    <MESSAGE value="Patch #1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Patch #1" />
   </component>
 </project>
