@@ -17,3 +17,18 @@ if start == '+':
             rand = random.choice(list_play)
             print(rand)
 
+            if rand == 'к' and user == "н":
+                rand_ball += 1
+            if rand == 'н' and user == "п":
+                rand_ball += 1
+            if rand == 'п' and user == "к":
+                rand_ball += 1
+            if rand == 'к' and user == "п":
+                user_ball += 1
+            if rand == 'н' and user == "к":
+                user_ball += 1
+            if rand == 'п' and user == "н":
+                user_ball += 1
+            if rand == user:
+                pass
+
