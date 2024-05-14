@@ -41,7 +41,7 @@ if start == '+':
             print(f'Ваші бали - {user_ball}, Бали вашого суперника - {rand_ball}.')
         elif user == "-":
             print(f'Ваші бали - {user_ball}, Бали вашого суперника - {rand_ball}.')
-            print('Кінецб гри, Допобачення!')
+            print('Кінець гри, Допобачення!')
             break
         else:
             print("Ведіть ",'к','н','п')
