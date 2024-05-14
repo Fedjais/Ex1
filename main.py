@@ -10,3 +10,6 @@ if start == '+':
     print("Хочете дізнатися рахунок натисніть '?'")
     user_ball = 0
     rand_ball = 0
+    while True:
+        user = input('Камінь, Ножиці чи Папір?')
+        list_play = ['к','н','п']
