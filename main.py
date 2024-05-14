@@ -11,5 +11,9 @@ if start == '+':
     user_ball = 0
     rand_ball = 0
     while True:
-        user = input('Камінь, Ножиці чи Папір?')
+        user = input('Камінь-"к", Ножиці-"н" чи Папір-"п"?')
         list_play = ['к','н','п']
+        if user in list_play:
+            rand = random.choice(list_play)
+            print(rand)
+
