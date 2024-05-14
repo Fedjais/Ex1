@@ -49,5 +49,5 @@ if start == '+':
 if start == "-":
     print("Sad, Bye")
 else:
-    print("I don`t undershtand.")
+    print("I don`t undershtand. :^/")
 
